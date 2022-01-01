@@ -29,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Perbankan">
     <configuration name="MainSekolah" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Modul5.Praktikum.Sekolah.MainSekolah" />
       <module name="20104054_Dianeme_SEB_PBO" />
@@ -43,8 +43,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Perbankan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul5.Tugas.Perbankan.Perbankan" />
+      <module name="20104054_Dianeme_SEB_PBO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Modul5.Tugas.Perbankan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Perbankan" />
         <item itemvalue="Application.MainSekolah" />
       </list>
     </recent_temporary>
